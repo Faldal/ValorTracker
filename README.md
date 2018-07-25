@@ -3,7 +3,7 @@
 2. Every bug has to be described thoroughly. “Quest X doesn’t work” is simply not enough. You have to write what exactly is happening and what should happen.
 
 3. Every bug should be reported with the following pattern:
-Decription: 
+Description: 
 How it works:
 How it should work:
 
