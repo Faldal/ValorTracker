@@ -13,3 +13,6 @@ How it should work:
 Additionally, you should show here evidences that this is indeed a bug, not an intended action.
 
 6. Reports that do not meet requirements listed above can be closed without further investigation.
+
+IMPORTANT:
+Please try to search for your specific bug in the tracker before you post a similar issue. If there is already a bug report for your issue you can add your own description/proof to this issue.
