@@ -1,4 +1,4 @@
-1. Report should be named in a way that would identify the problem at the first sight. You have to write what’s the problem about in square brackets (which raid, class, etc.). For example: [Warrior] Heroic Strike, [Black Temple - Illidan] Encounter/Boss is not attackable, [Warsong Gulch] Wrong flag respawn timer.
+1. Issue should be named in a way that would identify the problem at the first sight. You have to write what’s the problem about in square brackets (which raid, class, etc.). For example: [Warrior] Heroic Strike, [Black Temple - Illidan] Encounter/Boss is not attackable, [Warsong Gulch] Wrong flag respawn timer.
 
 2. Every bug has to be described thoroughly. “Quest X doesn’t work” is simply not enough. You have to write what exactly is happening and what should happen.
 
