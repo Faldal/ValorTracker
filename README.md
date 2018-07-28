@@ -6,6 +6,7 @@
 Description: 
 How it works:
 How it should work:
+Don't forget to insert proof and source if your are making claims that something is not working as it was in TBC.
 
 4. To make things get fixed faster, you should write the steps to reproduce said bug under “Steps to Reproduce”.
 
