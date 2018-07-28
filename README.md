@@ -2,10 +2,10 @@
 
 2. Every bug has to be described thoroughly. “Quest X doesn’t work” is simply not enough. You have to write what exactly is happening and what should happen.
 
-3. Every bug should be reported with the following pattern:
-Description: 
-How it works:
-How it should work:
+3. Every bug should be reported with the following pattern:__
+Description:__
+How it works:__
+How it should work:__
 Don't forget to insert proof and source if your are making claims that something is not working as it was in TBC.
 
 4. To make things get fixed faster, you should write the steps to reproduce said bug under “Steps to Reproduce”.
